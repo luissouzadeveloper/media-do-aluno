@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    background-color: white;
+}
+
+header{
+    text-align: center;
+    background-color: #4f4fe7e8;
+}
+
+main{
+    background-color: #4f4fe7e8;
+    max-width: 300px;
+    padding: 7px;
+    display: block;
+    margin: 15px auto;
+    border-radius: 7px;
+}
+
+main > p{
+    text-align: center;
+}
+
+main > div{
+    margin: 5px auto;
+    text-align: center;
+}
+
+footer{
+    background-color: #4f4fe7e8;
+}
+
+footer > p{
+    text-align: center;
+}
